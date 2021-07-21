@@ -1,0 +1,47 @@
+h1 {
+    color:black; 
+    display: flex;
+    justify-content:center ;
+    align-items: center;    
+}
+h3 {
+    color:black; 
+    display: flex;
+    justify-content:center ;
+    align-items: center;    
+}
+h4 {
+    color:black; 
+    display: flex;
+    justify-content:center ;
+    align-items: center;    
+}
+img{
+    width: 400px;
+    
+}
+#divClass{
+    display: flex;
+}
+#thirdDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:600px; 
+    
+    background-color:blue;
+    padding: 50px;
+    border: 5px dashed black;
+   }
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
